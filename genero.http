@@ -1,0 +1,3 @@
+@url = https://fluffy-train-q7v7r5wvqpp7h6wrg-3000.app.github.dev
+
+GET {{url}}/generos/api/v1/generos
